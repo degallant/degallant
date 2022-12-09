@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on De Gallant Dev</title>
+    <link>https://degallant.github.io/posts/</link>
+    <description>Recent content in Posts on De Gallant Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Dec 2022 15:32:04 -0400</lastBuildDate><atom:link href="https://degallant.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java Exception Handling</title>
+      <link>https://degallant.github.io/posts/java-exception-handling/</link>
+      <pubDate>Fri, 09 Dec 2022 15:32:04 -0400</pubDate>
+      
+      <guid>https://degallant.github.io/posts/java-exception-handling/</guid>
+      <description>A to the point tutorial on Exception Handling in Java.
+Checked Exceptions With the code below
+Files.writeString(Paths.get(&amp;#34;file.txt&amp;#34;), &amp;#34;content&amp;#34;); we get the following compile error
+Unhandled exception: java.io.IOException because the method signature of writeString method defines a throws clause,
+public static Path writeString(...) throws IOException with an IOException that extends Exception.
+public class IOException extends Exception When this happens we are dealing with a checked exception, that means, a problem that needs to be handled at compile time with a try-catch block.</description>
+    </item>
+    
+    <item>
+      <title>Java Generics</title>
+      <link>https://degallant.github.io/posts/java-generics/</link>
+      <pubDate>Fri, 09 Dec 2022 15:32:04 -0400</pubDate>
+      
+      <guid>https://degallant.github.io/posts/java-generics/</guid>
+      <description>A to the point tutorial on Generics in Java.
+Generic Classes Instead of having this
+public record AStringHolder (String content) { } where I can only do this
+AStringHolder holde = new AStringHolder(&amp;#34;somecontent&amp;#34;); with generics I can do like this
+public record AContentHolder&amp;lt;T&amp;gt; (T content) { } now we can put anything in it
+AContentHolder&amp;lt;String&amp;gt; aString = new AContentHolder&amp;lt;&amp;gt;(&amp;#34;somecontent&amp;#34;); AContentHolder&amp;lt;Integer&amp;gt; aInteger = new AContentHolder&amp;lt;&amp;gt;(69); AContentHolder&amp;lt;Boolean&amp;gt; aBoolean = new AContentHolder&amp;lt;&amp;gt;(false); AContentHolder&amp;lt;Double&amp;gt; aDouble = new AContentHolder&amp;lt;&amp;gt;(45.</description>
+    </item>
+    
+  </channel>
+</rss>
