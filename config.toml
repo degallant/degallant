@@ -1,4 +1,4 @@
-baseURL = 'https://degallant.github.io/'
+baseURL = 'https://degallant.github.io/degallant/'
 languageCode = 'en-us'
 title = 'De Gallant Dev'
 theme = 'holy'
