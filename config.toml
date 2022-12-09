@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'De Gallant Dev'
+theme = 'holy'
+[menu]
+[[menu.main]]
+  name = 'About'
+  url = '/about'
+  weight = 20
