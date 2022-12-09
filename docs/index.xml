@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>De Gallant Dev</title>
-    <link>https://degallant.github.io/degallant/</link>
+    <link>https://degallant.github.io/</link>
     <description>Recent content on De Gallant Dev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Dec 2022 15:32:04 -0400</lastBuildDate><atom:link href="https://degallant.github.io/degallant/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Dec 2022 15:32:04 -0400</lastBuildDate><atom:link href="https://degallant.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java Exception Handling</title>
-      <link>https://degallant.github.io/degallant/posts/java-exception-handling/</link>
+      <link>https://degallant.github.io/posts/java-exception-handling/</link>
       <pubDate>Fri, 09 Dec 2022 15:32:04 -0400</pubDate>
       
-      <guid>https://degallant.github.io/degallant/posts/java-exception-handling/</guid>
+      <guid>https://degallant.github.io/posts/java-exception-handling/</guid>
       <description>A to the point tutorial on Exception Handling in Java.
 Checked Exceptions With the code below
 Files.writeString(Paths.get(&amp;#34;file.txt&amp;#34;), &amp;#34;content&amp;#34;); we get the following compile error
@@ -23,10 +23,10 @@ public class IOException extends Exception When this happens we are dealing with
     
     <item>
       <title>Java Generics</title>
-      <link>https://degallant.github.io/degallant/posts/java-generics/</link>
+      <link>https://degallant.github.io/posts/java-generics/</link>
       <pubDate>Fri, 09 Dec 2022 15:32:04 -0400</pubDate>
       
-      <guid>https://degallant.github.io/degallant/posts/java-generics/</guid>
+      <guid>https://degallant.github.io/posts/java-generics/</guid>
       <description>A to the point tutorial on Generics in Java.
 Generic Classes Instead of having this
 public record AStringHolder (String content) { } where I can only do this
@@ -37,10 +37,10 @@ AContentHolder&amp;lt;String&amp;gt; aString = new AContentHolder&amp;lt;&amp;gt
     
     <item>
       <title>About</title>
-      <link>https://degallant.github.io/degallant/about/</link>
+      <link>https://degallant.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://degallant.github.io/degallant/about/</guid>
+      <guid>https://degallant.github.io/about/</guid>
       <description>Artenes Nogueira
 Senior Java Developer @ SIDIA
 Talking about Java @ Youtube

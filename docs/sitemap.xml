@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://degallant.github.io/degallant/</loc>
+    <loc>https://degallant.github.io/</loc>
     <lastmod>2022-12-09T15:32:04-04:00</lastmod>
   </url><url>
-    <loc>https://degallant.github.io/degallant/posts/java-exception-handling/</loc>
+    <loc>https://degallant.github.io/posts/java-exception-handling/</loc>
     <lastmod>2022-12-09T15:32:04-04:00</lastmod>
   </url><url>
-    <loc>https://degallant.github.io/degallant/posts/java-generics/</loc>
+    <loc>https://degallant.github.io/posts/java-generics/</loc>
     <lastmod>2022-12-09T15:32:04-04:00</lastmod>
   </url><url>
-    <loc>https://degallant.github.io/degallant/posts/</loc>
+    <loc>https://degallant.github.io/posts/</loc>
     <lastmod>2022-12-09T15:32:04-04:00</lastmod>
   </url><url>
-    <loc>https://degallant.github.io/degallant/about/</loc>
+    <loc>https://degallant.github.io/about/</loc>
   </url><url>
-    <loc>https://degallant.github.io/degallant/categories/</loc>
+    <loc>https://degallant.github.io/categories/</loc>
   </url><url>
-    <loc>https://degallant.github.io/degallant/tags/</loc>
+    <loc>https://degallant.github.io/tags/</loc>
   </url>
 </urlset>
